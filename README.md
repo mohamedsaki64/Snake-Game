@@ -1,5 +1,5 @@
 # Snake-Game
-Designed and implemeted a Snake Game using ILI9341 display and a joystick. The game will feature multiple levels, each increasing in complexity. The features are as follows,
+Designed and implemented a Snake Game using ILI9341 display and a joystick. The game will feature multiple levels, each increasing in complexity. The features are as follows,
 1. Using a joystick snake movements are being controlled in four directions (North, East, South, West)
 2. THe Snake changes its direction according to joystick input.
 3. Food appears randomly on the screen.
